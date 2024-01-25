@@ -1,1 +1,9 @@
-
+<!DOCTYPE html>
+<html>
+ <div class="color-box" </div>   
+    <style>
+        .color-box {
+            background-color: black; width: 200px; height: 200px;
+        }
+    </style>
+</html>
